@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1609258427 source:c:\users\administrator\desktop\hana\testgame\main.cpp
+	<AllHeaderInNeed.hpp>
+	<GameConsole.hpp>
+	<So1.hpp>
+
+1609164470 c:\users\administrator\desktop\hana\testgame\headers\star.hpp
+
+1609165781 c:\users\administrator\desktop\hana\testgame\headers\gp.hpp
+	<Point.hpp>
+	<graphics.h>
+	<Global.hpp>
+
+1609162294 c:\users\administrator\desktop\hana\testgame\headers\point.hpp
+
+1609164573 c:\users\administrator\desktop\hana\testgame\headers\global.hpp
+
+1609251054 c:\users\administrator\desktop\hana\testgame\headers\background.hpp
+	<Star.hpp>
+	<Random.hpp>
+	<vector>
+	<ScoreBoard.hpp>
+
+1608732556 c:\users\administrator\desktop\hana\testgame\headers\random.hpp
+	<cstdlib>
+
+1609164608 c:\users\administrator\desktop\hana\testgame\headers\allheaderinneed.hpp
+	<GP.hpp>
+
+1609249423 c:\users\administrator\desktop\hana\testgame\headers\spaceship.hpp
+	<Bullet.hpp>
+
+1609249491 c:\users\administrator\desktop\hana\testgame\headers\bullet.hpp
+
+1609250954 c:\users\administrator\desktop\hana\testgame\headers\gameconsole.hpp
+	<SpaceShip.hpp>
+	<Background.hpp>
+
+1609251190 c:\users\administrator\desktop\hana\testgame\headers\scoreboard.hpp
+
+1609251486 c:\users\administrator\desktop\hana\testgame\headers\number\so1.hpp
+

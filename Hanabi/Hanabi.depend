@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1608911859 source:c:\users\administrator\desktop\hana\hanabi\main.cpp
+	<Manager.hpp>
+	<bits/stdc++.h>
+
+1609062426 c:\users\administrator\desktop\hana\hanabi\headers\manager.hpp
+	<PhaoHoa.hpp>
+
+1609427299 c:\users\administrator\desktop\hana\hanabi\headers\phaohoa.hpp
+	<Hat.hpp>
+	<vector>
+	<math.h>
+
+1608912505 c:\users\administrator\desktop\hana\hanabi\headers\hat.hpp
+	<Point.hpp>
+	<Random.hpp>
+	<Global.hpp>
+	<graphics.h>
+
+1608732406 c:\users\administrator\desktop\hana\hanabi\headers\point.hpp
+
+1608732556 c:\users\administrator\desktop\hana\hanabi\headers\random.hpp
+	<cstdlib>
+
+1608870651 c:\users\administrator\desktop\hana\hanabi\headers\global.hpp
+

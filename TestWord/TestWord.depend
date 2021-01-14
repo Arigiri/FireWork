@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1609077021 source:c:\users\administrator\desktop\hana\testword\main.cpp
+	<SpaceShip.hpp>
+
+1609072173 c:\users\administrator\desktop\hana\testword\headers\h.hpp
+	<graphics.h>
+
+1609074136 c:\users\administrator\desktop\hana\testword\headers\a.hpp
+	<graphics.h>
+
+1609077162 c:\users\administrator\desktop\hana\testword\headers\spaceship.hpp
+	<graphics.h>
+	<Point.hpp>
+
+1609077047 c:\users\administrator\desktop\hana\testword\headers\point.hpp
+
